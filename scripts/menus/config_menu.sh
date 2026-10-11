@@ -645,6 +645,7 @@ change_language() {
                           "fr" "$(translate "French")" \
                           "it" "$(translate "Italian")" \
                           "pt" "$(translate "Portuguese")" \
+                          "ru" "Russian" \                          
                           "sk" "Slovenčina" \
                           "sv" "Svenska" 3>&1 1>&2 2>&3)
     
