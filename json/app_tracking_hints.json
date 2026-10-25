@@ -549,14 +549,27 @@
     "default_ports": [
       80
     ],
-    "file_path": "/root/.xcaddy",
+    "file_path": "/root/.caddy",
     "file_regex": "(?i)(?:v|release[-_/]?)?(\\d+(?:\\.\\d+){1,3}(?:[-+._][0-9A-Za-z.-]+)?)",
     "github_source": "releases",
     "installed_via": "file",
     "logo": "https://cdn.jsdelivr.net/gh/selfhst/icons@main/webp/caddy.webp",
-    "repo": "caddyserver/xcaddy",
+    "repo": "caddyserver/caddy",
     "tag_regex": "(?i)(?:v|release[-_/]?)?(\\d+(?:\\.\\d+){1,3}(?:[-+._][0-9A-Za-z.-]+)?)",
     "website": "https://caddyserver.com/"
+  },
+  "calagopus": {
+    "default_ports": [
+      8000
+    ],
+    "file_path": "/root/.calagopus-panel",
+    "file_regex": "(?i)(?:v|release[-_/]?)?(\\d+(?:\\.\\d+){1,3}(?:[-+._][0-9A-Za-z.-]+)?)",
+    "github_source": "releases",
+    "installed_via": "file",
+    "logo": "https://cdn.jsdelivr.net/gh/selfhst/icons@main/webp/calagopus.webp",
+    "repo": "calagopus/panel",
+    "tag_regex": "(?i)(?:v|release[-_/]?)?(\\d+(?:\\.\\d+){1,3}(?:[-+._][0-9A-Za-z.-]+)?)",
+    "website": "https://calagopus.com"
   },
   "calibre-web": {
     "default_ports": [
@@ -635,6 +648,19 @@
     "repo": "chevereto/chevereto",
     "tag_regex": "(?i)(?:v|release[-_/]?)?(\\d+(?:\\.\\d+){1,3}(?:[-+._][0-9A-Za-z.-]+)?)",
     "website": "https://chevereto.com/"
+  },
+  "cinephage": {
+    "default_ports": [
+      3000
+    ],
+    "file_path": "/root/.cinephage",
+    "file_regex": "(?i)(?:v|release[-_/]?)?(\\d+(?:\\.\\d+){1,3}(?:[-+._][0-9A-Za-z.-]+)?)",
+    "github_source": "releases",
+    "installed_via": "file",
+    "logo": "https://cdn.jsdelivr.net/gh/selfhst/icons@main/webp/cinephage.webp",
+    "repo": "MoldyTaint/Cinephage",
+    "tag_regex": "(?i)(?:v|release[-_/]?)?(\\d+(?:\\.\\d+){1,3}(?:[-+._][0-9A-Za-z.-]+)?)",
+    "website": "https://github.com/MoldyTaint/Cinephage"
   },
   "cliproxyapi": {
     "default_ports": [
@@ -1028,6 +1054,19 @@
     "repo": "donetick/donetick",
     "tag_regex": "(?i)(?:v|release[-_/]?)?(\\d+(?:\\.\\d+){1,3}(?:[-+._][0-9A-Za-z.-]+)?)",
     "website": "https://donetick.com"
+  },
+  "downtify": {
+    "default_ports": [
+      8000
+    ],
+    "file_path": "/root/.downtify",
+    "file_regex": "(?i)(?:v|release[-_/]?)?(\\d+(?:\\.\\d+){1,3}(?:[-+._][0-9A-Za-z.-]+)?)",
+    "github_source": "releases",
+    "installed_via": "file",
+    "logo": "https://cdn.jsdelivr.net/gh/selfhst/icons@main/webp/downtify.webp",
+    "repo": "henriquesebastiao/downtify",
+    "tag_regex": "(?i)(?:v|release[-_/]?)?(\\d+(?:\\.\\d+){1,3}(?:[-+._][0-9A-Za-z.-]+)?)",
+    "website": "https://downtify.henriquesebastiao.com/"
   },
   "drawio": {
     "default_ports": [
@@ -1491,7 +1530,7 @@
     "github_source": "releases",
     "installed_via": "file",
     "logo": "https://cdn.jsdelivr.net/gh/selfhst/icons@main/webp/gluetun.webp",
-    "repo": "qdm12/gluetun",
+    "repo": "passteque/gluetun",
     "tag_regex": "(?i)(?:v|release[-_/]?)?(\\d+(?:\\.\\d+){1,3}(?:[-+._][0-9A-Za-z.-]+)?)",
     "website": "https://github.com/qdm12/gluetun"
   },
@@ -2453,6 +2492,19 @@
     "tag_regex": "(?i)(?:v|release[-_/]?)?(\\d+(?:\\.\\d+){1,3}(?:[-+._][0-9A-Za-z.-]+)?)",
     "website": "https://linkwarden.app/"
   },
+  "listenarr": {
+    "default_ports": [
+      4545
+    ],
+    "file_path": "/root/.listenarr",
+    "file_regex": "(?i)(?:v|release[-_/]?)?(\\d+(?:\\.\\d+){1,3}(?:[-+._][0-9A-Za-z.-]+)?)",
+    "github_source": "releases",
+    "installed_via": "file",
+    "logo": "https://cdn.jsdelivr.net/gh/selfhst/icons@main/webp/listenarr.webp",
+    "repo": "Listenarrs/Listenarr",
+    "tag_regex": "(?i)(?:v|release[-_/]?)?(\\d+(?:\\.\\d+){1,3}(?:[-+._][0-9A-Za-z.-]+)?)",
+    "website": "https://getlistenarr.com/"
+  },
   "listmonk": {
     "default_ports": [
       9000
@@ -2975,6 +3027,19 @@
     "tag_regex": "(?i)(?:v|release[-_/]?)?(\\d+(?:\\.\\d+){1,3}(?:[-+._][0-9A-Za-z.-]+)?)",
     "website": "https://netboxlabs.com/products/netbox/"
   },
+  "netronome": {
+    "default_ports": [
+      7575
+    ],
+    "file_path": "/root/.netronome",
+    "file_regex": "(?i)(?:v|release[-_/]?)?(\\d+(?:\\.\\d+){1,3}(?:[-+._][0-9A-Za-z.-]+)?)",
+    "github_source": "releases",
+    "installed_via": "file",
+    "logo": "https://cdn.jsdelivr.net/gh/selfhst/icons@main/webp/netronome.webp",
+    "repo": "autobrr/netronome",
+    "tag_regex": "(?i)(?:v|release[-_/]?)?(\\d+(?:\\.\\d+){1,3}(?:[-+._][0-9A-Za-z.-]+)?)",
+    "website": "https://netrono.me/"
+  },
   "networkoptimizer": {
     "default_ports": [
       8042
@@ -3110,6 +3175,19 @@
     "repo": "technomancer702/nodecast-tv",
     "tag_regex": "(?i)(?:v|release[-_/]?)?(\\d+(?:\\.\\d+){1,3}(?:[-+._][0-9A-Za-z.-]+)?)",
     "website": "https://github.com/technomancer702/nodecast-tv"
+  },
+  "norish": {
+    "default_ports": [
+      3000
+    ],
+    "file_path": "/root/.norish",
+    "file_regex": "(?i)(?:v|release[-_/]?)?(\\d+(?:\\.\\d+){1,3}(?:[-+._][0-9A-Za-z.-]+)?)",
+    "github_source": "releases",
+    "installed_via": "file",
+    "logo": "https://cdn.jsdelivr.net/gh/selfhst/icons@main/webp/norish.webp",
+    "repo": "norish-recipes/norish",
+    "tag_regex": "(?i)(?:v|release[-_/]?)?(\\d+(?:\\.\\d+){1,3}(?:[-+._][0-9A-Za-z.-]+)?)",
+    "website": "https://norish.dev/"
   },
   "notediscovery": {
     "default_ports": [
@@ -3314,6 +3392,19 @@
     "repo": "thomiceli/opengist",
     "tag_regex": "(?i)(?:v|release[-_/]?)?(\\d+(?:\\.\\d+){1,3}(?:[-+._][0-9A-Za-z.-]+)?)",
     "website": "https://opengist.io/"
+  },
+  "opengym": {
+    "default_ports": [
+      80
+    ],
+    "file_path": "/root/.opengym",
+    "file_regex": "(?i)(?:v|release[-_/]?)?(\\d+(?:\\.\\d+){1,3}(?:[-+._][0-9A-Za-z.-]+)?)",
+    "github_source": "releases",
+    "installed_via": "file",
+    "logo": "https://cdn.jsdelivr.net/gh/DuarteSantos8/openGym@main/frontend/public/icon-512.png",
+    "repo": "DuarteSantos8/openGym",
+    "tag_regex": "(?i)(?:v|release[-_/]?)?(\\d+(?:\\.\\d+){1,3}(?:[-+._][0-9A-Za-z.-]+)?)",
+    "website": "https://opengym.ch/"
   },
   "openproject": {
     "default_ports": [
@@ -3904,6 +3995,19 @@
     "tag_regex": "(?i)(?:v|release[-_/]?)?(\\d+(?:\\.\\d+){1,3}(?:[-+._][0-9A-Za-z.-]+)?)",
     "website": "https://github.com/Prowlarr/Prowlarr"
   },
+  "proxcenter": {
+    "default_ports": [
+      3000
+    ],
+    "file_path": "/root/.proxcenter",
+    "file_regex": "(?i)(?:v|release[-_/]?)?(\\d+(?:\\.\\d+){1,3}(?:[-+._][0-9A-Za-z.-]+)?)",
+    "github_source": "releases",
+    "installed_via": "file",
+    "logo": "https://cdn.jsdelivr.net/gh/selfhst/icons@main/webp/proxcenter.webp",
+    "repo": "adminsyspro/proxcenter-ui",
+    "tag_regex": "(?i)(?:v|release[-_/]?)?(\\d+(?:\\.\\d+){1,3}(?:[-+._][0-9A-Za-z.-]+)?)",
+    "website": "https://proxcenter.io/"
+  },
   "proxmox-backup-server": {
     "default_ports": [
       8007
@@ -4204,7 +4308,7 @@
     "github_source": "releases",
     "installed_via": "file",
     "logo": "https://cdn.jsdelivr.net/gh/selfhst/icons@main/webp/rustdesk.webp",
-    "repo": "lejianwen/rustdesk-server",
+    "repo": "rustdesk/rustdesk-server",
     "tag_regex": "(?i)(?:v|release[-_/]?)?(\\d+(?:\\.\\d+){1,3}(?:[-+._][0-9A-Za-z.-]+)?)",
     "website": "https://rustdesk.com/"
   },
@@ -4453,7 +4557,7 @@
     "default_ports": [
       9001
     ],
-    "file_path": "/root/.silo",
+    "file_path": "/root/.silo_s3",
     "file_regex": "(?i)(?:v|release[-_/]?)?(\\d+(?:\\.\\d+){1,3}(?:[-+._][0-9A-Za-z.-]+)?)",
     "github_source": "releases",
     "installed_via": "file",
@@ -5464,6 +5568,19 @@
     "tag_regex": "(?i)(?:v|release[-_/]?)?(\\d+(?:\\.\\d+){1,3}(?:[-+._][0-9A-Za-z.-]+)?)",
     "website": "https://watcharr.app/"
   },
+  "watchstate": {
+    "default_ports": [
+      8080
+    ],
+    "file_path": "/root/.watchstate",
+    "file_regex": "(?i)(?:v|release[-_/]?)?(\\d+(?:\\.\\d+){1,3}(?:[-+._][0-9A-Za-z.-]+)?)",
+    "github_source": "releases",
+    "installed_via": "file",
+    "logo": "https://cdn.jsdelivr.net/gh/selfhst/icons@main/webp/watchstate.webp",
+    "repo": "arabcoders/watchstate",
+    "tag_regex": "(?i)(?:v|release[-_/]?)?(\\d+(?:\\.\\d+){1,3}(?:[-+._][0-9A-Za-z.-]+)?)",
+    "website": "https://github.com/arabcoders/watchstate"
+  },
   "watchyourlan": {
     "default_ports": [
       8840
@@ -5577,7 +5694,7 @@
     "github_source": "releases",
     "installed_via": "file",
     "logo": "https://cdn.jsdelivr.net/gh/selfhst/icons@main/webp/wiki-js.webp",
-    "repo": "requarks/wiki",
+    "repo": "requarks/wiki-v2",
     "tag_regex": "(?i)(?:v|release[-_/]?)?(\\d+(?:\\.\\d+){1,3}(?:[-+._][0-9A-Za-z.-]+)?)",
     "website": "https://js.wiki/"
   },
@@ -5692,6 +5809,19 @@
     "repo": "YOURLS/YOURLS",
     "tag_regex": "(?i)(?:v|release[-_/]?)?(\\d+(?:\\.\\d+){1,3}(?:[-+._][0-9A-Za-z.-]+)?)",
     "website": "https://yourls.org/"
+  },
+  "youtarr": {
+    "default_ports": [
+      3011
+    ],
+    "file_path": "/root/.youtarr",
+    "file_regex": "(?i)(?:v|release[-_/]?)?(\\d+(?:\\.\\d+){1,3}(?:[-+._][0-9A-Za-z.-]+)?)",
+    "github_source": "releases",
+    "installed_via": "file",
+    "logo": "https://cdn.jsdelivr.net/gh/selfhst/icons@main/webp/youtarr.webp",
+    "repo": "DialmasterOrg/Youtarr",
+    "tag_regex": "(?i)(?:v|release[-_/]?)?(\\d+(?:\\.\\d+){1,3}(?:[-+._][0-9A-Za-z.-]+)?)",
+    "website": "https://youtarr.com/"
   },
   "yt-dlp-webui": {
     "default_ports": [
